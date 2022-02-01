@@ -6,7 +6,7 @@ Steps to setup own Cardano Node on windows:
 
 3. create a batch file with the following commands: eg. run-node.bat.
 
-cardano-node run --topology "configuration\cardano\mainnet-topology.json" --database-path "db" --socket-path "\\.\pipe\cardano" --host-addr 192.168.0.1 --port 3000 --config "configuration\cardano\mainnet-config.json"
+cardano-node run --topology "configuration\cardano\testnet-topology.json" --database-path "db" --socket-path "\\.\pipe\cardano" --host-addr 192.168.0.1 --port 3000 --config "configuration\cardano\testnet-config.json"
 
 4. create a database folder with the path. eg db.
 
@@ -31,7 +31,7 @@ Query Cardano Node:
 
 4. set path "CARDANO_NODE_SOCKET_PATH" and value : "\\.\pipe\cardano"
 
-5. Open another console window type command in root folder: "cardano-cli query tip" --mainnet 
+5. Open another console window type command in root folder: "cardano-cli query tip" --testnet 
 
 
 ![img2](https://user-images.githubusercontent.com/90293555/151898509-4eb659ec-bc87-40ec-b6ba-0a548de65eac.jpg)
