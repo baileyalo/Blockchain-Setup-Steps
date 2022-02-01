@@ -37,7 +37,6 @@ Query Cardano Node:
 ![img2](https://user-images.githubusercontent.com/90293555/151898509-4eb659ec-bc87-40ec-b6ba-0a548de65eac.jpg)
 
 
-SET UP WALLET:
 
 1. download windows zip from: https://github.com/input-output-hk/cardano-wallet/releases
 
