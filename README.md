@@ -2,7 +2,6 @@
 
 This Repo outlines the steps of setting up the following Nodes:
 
-1. Ethereum 
-2. Cardano 
-3. Fluree
-4. Metaverse
+1. Cardano 
+2. Fluree
+3. Metaverse
