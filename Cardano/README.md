@@ -36,6 +36,7 @@ Query Cardano Node:
 
 ![img2](https://user-images.githubusercontent.com/90293555/151898509-4eb659ec-bc87-40ec-b6ba-0a548de65eac.jpg)
 
+![img](https://user-images.githubusercontent.com/90293555/151906674-277ad509-defd-412f-a797-ec29bc0eb20d.jpg)
 
 
 1. download windows zip from: https://github.com/input-output-hk/cardano-wallet/releases
@@ -50,6 +51,8 @@ Query Cardano Node:
 
 image:
 
+![img3](https://user-images.githubusercontent.com/90293555/151906597-6bc486aa-a444-4269-850b-fc673e3cdb68.jpg)
+
 6. Create wallet : WALLET_NAME, recovery-phrase, Passphrase
 
 7. Generate recovery phrase 
@@ -62,3 +65,9 @@ cardano-wallet recovery-phrase generate
  9. Enter recovery phrase
 
  10. Enter passphrase
+
+![img4](https://user-images.githubusercontent.com/90293555/151906614-b1d2cd69-969b-471f-b5a3-55635af27008.jpg)
+
+![img5](https://user-images.githubusercontent.com/90293555/151906623-bf31d378-1268-48ad-93e1-32d57405689c.jpg)
+
+
