@@ -13,12 +13,17 @@ cardano-node run --topology "configuration\cardano\mainnet-topology.json" --data
 5. run CMD as an Administrator to run "run-node.bat" file.
 
 
-
+MAINNET
 ![img](https://user-images.githubusercontent.com/90293555/151898424-98144d63-365b-4bec-872c-73e37c275d5b.jpg)
 
-
-
 ![img1](https://user-images.githubusercontent.com/90293555/151898471-3a4363d4-bfbe-4434-bc10-aa96ef178c1e.jpg)
+
+TESTNET:
+
+![img6](https://user-images.githubusercontent.com/90293555/152064205-f4fdefe2-8bfd-495b-9b78-19edce7b760c.jpg)
+
+
+
 
 Query Cardano Node:
 
@@ -33,10 +38,17 @@ Query Cardano Node:
 
 5. Open another console window type command in root folder: "cardano-cli query tip" --mainnet / cardano-cli query tip --testnet-magic 1097911063
 
+MAINNET:
 
 ![img2](https://user-images.githubusercontent.com/90293555/151898509-4eb659ec-bc87-40ec-b6ba-0a548de65eac.jpg)
 
 ![img](https://user-images.githubusercontent.com/90293555/151906674-277ad509-defd-412f-a797-ec29bc0eb20d.jpg)
+
+TESTNET: 
+
+![img7](https://user-images.githubusercontent.com/90293555/152064361-b6ea59f8-dc85-45eb-8a19-9aa6e405f9ac.jpg)
+
+![img8](https://user-images.githubusercontent.com/90293555/152064317-3ddb8167-6016-4e2d-97bc-a47d3dbfe082.jpg)
 
 
 1. download windows zip from: https://github.com/input-output-hk/cardano-wallet/releases
