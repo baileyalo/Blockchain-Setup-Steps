@@ -12,7 +12,16 @@ cardano-node run --topology "configuration\cardano\mainnet-topology.json" --data
 
 5. run CMD as an Administrator to run "run-node.bat" file.
 
-Query Cardano Node
+
+
+![img](https://user-images.githubusercontent.com/90293555/151898424-98144d63-365b-4bec-872c-73e37c275d5b.jpg)
+
+
+
+![img1](https://user-images.githubusercontent.com/90293555/151898471-3a4363d4-bfbe-4434-bc10-aa96ef178c1e.jpg)
+
+Query Cardano Node:
+
 
 1. Use the cardano-cli 
 
@@ -23,4 +32,9 @@ Query Cardano Node
 4. set path "CARDANO_NODE_SOCKET_PATH" and value : "\\.\pipe\cardano"
 
 5. Open another console window type command in root folder: "cardano-cli query tip" --mainnet 
+
+
+![img2](https://user-images.githubusercontent.com/90293555/151898509-4eb659ec-bc87-40ec-b6ba-0a548de65eac.jpg)
+
+
 
