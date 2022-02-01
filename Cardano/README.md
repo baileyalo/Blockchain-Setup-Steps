@@ -29,9 +29,9 @@ Query Cardano Node:
 
 3. Type sysdm.cpl in console --> environment variables 
 
-4. set path "CARDANO_NODE_SOCKET_PATH" and value : "\\.\pipe\cardano"
+4. set path "CARDANO_NODE_SOCKET_PATH" and value : "\\.\pipe\cardano" or "\\.\pipe\cardano-node-testnet"
 
-5. Open another console window type command in root folder: "cardano-cli query tip" --mainnet 
+5. Open another console window type command in root folder: "cardano-cli query tip" --mainnet / cardano-cli query tip --testnet-magic 1097911063
 
 
 ![img2](https://user-images.githubusercontent.com/90293555/151898509-4eb659ec-bc87-40ec-b6ba-0a548de65eac.jpg)
@@ -42,7 +42,7 @@ Query Cardano Node:
 
 2. create a Wallet folder and extract files 
 
-3. create batch file for running wallet : cardano-wallet serve --listen-address 127.0.0.1 --port 8090 --node-socket "\\.\pipe\cardano" --mainnet --database "wallets"  //run-wallet.bat
+3. create batch file for running wallet : cardano-wallet serve --listen-address 127.0.0.1 --port 8090 --node-socket "\\.\pipe\cardano" --mainnet --database "wallets"  //run-wallet.bat / or   create batch file for running wallet : cardano-wallet serve --listen-address 127.0.0.1 --port 8090 --node-socket "\\.\pipe\cardano" --testnet --database "wallets"  //run-wallet.bat 
 
 4. create database folder to match --database
 
