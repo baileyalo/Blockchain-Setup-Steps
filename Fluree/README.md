@@ -1,3 +1,7 @@
+
+FLUREE
+
+
 Steps of installing and creating collections and Query in Fluree
 
 
