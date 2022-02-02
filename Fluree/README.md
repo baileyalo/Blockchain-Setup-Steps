@@ -51,6 +51,8 @@ Steps of installing and creating collections and Query in Fluree
 
 TO RUN:
 
-cd to folder using "Git bash"
-run command "fluree_start.sh"
-go to : http://localhost:8080/
+1. cd to folder using "Git bash"
+
+2. run command "fluree_start.sh"
+
+3. go to : http://localhost:8080/
