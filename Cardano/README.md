@@ -77,6 +77,10 @@ cardano-wallet recovery-phrase generate
  9. Enter recovery phrase
 
  10. Enter passphrase
+ 
+ 
+ ![img9](https://user-images.githubusercontent.com/90293555/152074787-ff6a2119-ff33-4670-9095-4d914f0e6a84.jpg)
+
 
 ![img4](https://user-images.githubusercontent.com/90293555/151906614-b1d2cd69-969b-471f-b5a3-55635af27008.jpg)
 
