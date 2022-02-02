@@ -1,5 +1,10 @@
 CARDANO BLOCKCHAIN
 
+Description
+
+Cardano is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake. 
+It can facilitate peer-to-peer transactions with its internal cryptocurrency, ADA
+
 Steps to setup own Cardano Node Mainnet and Testnet on windows:
 
 1. https://developers.cardano.org/docs/get-started/cardano-components/
