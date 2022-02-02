@@ -7,13 +7,14 @@ Steps of installing and creating collections and Query in Fluree
 
 1. Download the lastest stable version of fluree
 
+2. Install Git bash if using windows
+
+3. /cd to file and run command ./fluree_start.sh
+
+
 
 ![img](https://user-images.githubusercontent.com/90293555/152085168-b3c0408d-3f13-4068-9350-cb20cbd855b1.jpg)
 
-
-2. install Git bash if using windows
-
-3. cd to file and run command ./fluree_start.sh
 
 
 ![img 2](https://user-images.githubusercontent.com/90293555/152085196-0c6ef3a0-1e15-4bdb-b630-9f65a04ad65c.jpg)
@@ -23,14 +24,14 @@ Steps of installing and creating collections and Query in Fluree
 
 ![img3](https://user-images.githubusercontent.com/90293555/152085223-3217ec5d-8dcc-4df3-91d8-2bfb96032ddd.jpg)
 
-5. create a ledger by using "create new ledger" tab
+5. Create a ledger by using "create new ledger" tab
 
 
 6. The name of your network and ledger will become part of the unique URL that includes the API endpoint. Example: http://localhost:8090/fdb/test/one1/query.
 
 7. Once the ledger has been created the next step is to build your schema. Schemas in Fluree consist of collections and predicates.
 
-8. create predicates 
+8. Create predicates 
 
 9. Run queries on the collection 
 
@@ -43,7 +44,9 @@ Steps of installing and creating collections and Query in Fluree
 
 ![img7](https://user-images.githubusercontent.com/90293555/152085360-8251d293-3b54-4ac0-9f5b-ea9e0fc04759.jpg)
 
-10. Shut down in bash control C.
+10. Shut down in bash //control C.
 
 
 ![img8](https://user-images.githubusercontent.com/90293555/152085377-5ababffc-7aa2-4c74-bb46-410c87ba1f24.jpg)
+
+
