@@ -1,6 +1,9 @@
 
 FLUREE
 
+Description
+Fluree is an open-source semantic graph database with an immutable ledger. 
+All built on top of semantic web standards and a cloud-native architecture.
 
 Steps of installing and creating collections and Query in Fluree
 
