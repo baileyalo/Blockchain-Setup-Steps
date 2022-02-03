@@ -1,6 +1,9 @@
 
 FLUREE
 
+![image](https://user-images.githubusercontent.com/90293555/152284685-0bb21cd4-8af7-4867-a2df-7d88055efc24.png)
+
+
 Description
 Fluree is an open-source semantic graph database with an immutable ledger. 
 All built on top of semantic web standards and a cloud-native architecture.
