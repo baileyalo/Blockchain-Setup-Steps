@@ -1,5 +1,9 @@
 CARDANO BLOCKCHAIN
 
+![image](https://user-images.githubusercontent.com/90293555/152284738-5a52ca85-556b-4ee7-a5a3-407338d5b26d.png)
+
+
+
 Description
 
 Cardano is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake. 
