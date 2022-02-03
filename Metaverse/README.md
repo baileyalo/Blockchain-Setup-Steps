@@ -12,6 +12,9 @@ Decentraland is a 3D virtual world platform. Users may buy virtual plots of land
 
 #  Hardhat Project
 
+![image](https://user-images.githubusercontent.com/90293555/152399521-fb2aefef-62d1-4ceb-948d-bffcc3d188b9.png)
+
+
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
 Try running some of the following tasks:
@@ -34,6 +37,9 @@ Setup Hardhat Project
 3. Create Deploy.js to deploy contract 
 
 4. Add .env that include Ropsten test "PUBLIC_KEY" "PRIVATE_KEY" 
+
+![image](https://user-images.githubusercontent.com/90293555/152399599-e944c940-0da4-4b36-9829-0e53404f1854.png)
+
 
     "API_URL" - this using infura API @ https://infura.io/
 
@@ -86,6 +92,9 @@ CATALYST
 
 Setting up a Catalyst Node on Ubuntu 20.4 using virtualbox
 
+![image](https://user-images.githubusercontent.com/90293555/152399464-7a546ee3-e409-4fa7-a15e-246c34af435b.png)
+
+
 
 1. Install Docker
 
@@ -132,4 +141,4 @@ Final message to confirm that the server is functioning:
 ![img4](https://user-images.githubusercontent.com/90293555/152284083-3f07befb-8fe9-4f8a-b416-fd5931f79107.jpg)
 
 
-https://www.reddit.com/r/decentraland/comments/m0xujc/decentralizing_decentraland_content_setting_up_a/
+credit : https://www.reddit.com/r/decentraland/comments/m0xujc/decentralizing_decentraland_content_setting_up_a/
