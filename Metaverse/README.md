@@ -6,6 +6,10 @@ Description:
 
 Decentraland is a 3D virtual world platform. Users may buy virtual plots of land in the platform as NFTs via the MANA cryptocurrency, which uses the Ethereum blockchain.
 
+
+![image](https://user-images.githubusercontent.com/90293555/152284601-0a6a689b-70de-4aff-8093-9fccb71b8f7a.png)
+
+
 #  Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
@@ -61,6 +65,17 @@ error:
 8. RUN:  npx hardhat run scripts/deploy.js --network ropsten
 
     error: ProviderError: max code size exceeded
+
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/90293555/152284559-e2292c4d-1ce6-48de-8680-274ca7a50039.png)
 
 
 
