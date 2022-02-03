@@ -81,7 +81,6 @@ error:
 
 
 
-![image](https://user-images.githubusercontent.com/90293555/152284559-e2292c4d-1ce6-48de-8680-274ca7a50039.png)
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -154,6 +153,8 @@ Error:  *** Deployment Failed ***
 
 
 #  Catalyst Node Project
+
+![image](https://user-images.githubusercontent.com/90293555/152284559-e2292c4d-1ce6-48de-8680-274ca7a50039.png)
 
 Setting up a Catalyst Node on Ubuntu 20.4 using virtualbox
 
