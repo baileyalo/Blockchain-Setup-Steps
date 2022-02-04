@@ -74,10 +74,38 @@ error:
 
 
 
+SOLVED: Update compiler file compilers: [
+      {
+        version: "0.4.24",
+        settings: {
+         optimizer: {
+           enabled: true,
+           runs: 999999
+         },
+         evmVersion: "byzantium", 
+         outputSelection: {
+          "*": {
+            "": [
+              "ast"
+            ],
+            "*": [
+              "evm.bytecode.object",
+              "evm.deployedBytecode.object",
+              "abi",
+              "evm.bytecode.sourceMap",
+              "evm.deployedBytecode.sourceMap",
+              "metadata"
+            ]
+          },
+        }
+        }
+      }
+    ]
 
 
 
 
+![img5](https://user-images.githubusercontent.com/90293555/152578317-6fef930a-72fd-48b6-9ad4-7cf98b0d1ae4.jpg)
 
 
 
