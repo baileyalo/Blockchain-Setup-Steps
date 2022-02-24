@@ -12,7 +12,7 @@ Decentraland is a 3D virtual world platform. Users may buy virtual plots of land
 
 ### Hardhat Project
 
-![image](https://user-images.githubusercontent.com/90293555/152399521-fb2aefef-62d1-4ceb-948d-bffcc3d188b9.png)
+![alt text](https://user-images.githubusercontent.com/90293555/152399521-fb2aefef-62d1-4ceb-948d-bffcc3d188b9.png)
 
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
