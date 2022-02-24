@@ -1,10 +1,12 @@
-CARDANO BLOCKCHAIN
+# CARDANO BLOCKCHAIN
+
+***
 
 ![image](https://user-images.githubusercontent.com/90293555/152284738-5a52ca85-556b-4ee7-a5a3-407338d5b26d.png)
 
 
 
-Description
+### Description
 
 Cardano is a public blockchain platform. It is open-source and decentralized, with consensus achieved using proof of stake. 
 It can facilitate peer-to-peer transactions with its internal cryptocurrency, ADA
@@ -24,19 +26,19 @@ cardano-node run --topology "configuration\cardano\mainnet-topology.json" --data
 5. run CMD as an Administrator to run "run-node.bat" file.
 
 
-MAINNET
+### MAINNET
 ![img](https://user-images.githubusercontent.com/90293555/151898424-98144d63-365b-4bec-872c-73e37c275d5b.jpg)
 
 ![img1](https://user-images.githubusercontent.com/90293555/151898471-3a4363d4-bfbe-4434-bc10-aa96ef178c1e.jpg)
 
-TESTNET:
+### TESTNET:
 
 ![img6](https://user-images.githubusercontent.com/90293555/152064205-f4fdefe2-8bfd-495b-9b78-19edce7b760c.jpg)
 
 
 
 
-Query Cardano Node:
+### Query Cardano Node:
 
 
 1. Use the cardano-cli 
@@ -49,13 +51,13 @@ Query Cardano Node:
 
 5. Open another console window type command in root folder: "cardano-cli query tip" --mainnet / cardano-cli query tip --testnet-magic 1097911063
 
-MAINNET:
+### MAINNET:
 
 ![img2](https://user-images.githubusercontent.com/90293555/151898509-4eb659ec-bc87-40ec-b6ba-0a548de65eac.jpg)
 
 ![img](https://user-images.githubusercontent.com/90293555/151906674-277ad509-defd-412f-a797-ec29bc0eb20d.jpg)
 
-TESTNET: 
+### TESTNET: 
 
 ![img7](https://user-images.githubusercontent.com/90293555/152064361-b6ea59f8-dc85-45eb-8a19-9aa6e405f9ac.jpg)
 
