@@ -1,10 +1,10 @@
 
-FLUREE
+# FLUREE
 
 ![image](https://user-images.githubusercontent.com/90293555/152284685-0bb21cd4-8af7-4867-a2df-7d88055efc24.png)
 
-
-Description
+***
+### Description
 Fluree is an open-source semantic graph database with an immutable ledger. 
 All built on top of semantic web standards and a cloud-native architecture.
 
@@ -17,7 +17,7 @@ Steps of installing and creating collections and Query in Fluree
 
 3. /cd to file and run command ./fluree_start.sh
 
-
+***
 
 ![img](https://user-images.githubusercontent.com/90293555/152085168-b3c0408d-3f13-4068-9350-cb20cbd855b1.jpg)
 
@@ -55,7 +55,8 @@ Steps of installing and creating collections and Query in Fluree
 
 ![img8](https://user-images.githubusercontent.com/90293555/152085377-5ababffc-7aa2-4c74-bb46-410c87ba1f24.jpg)
 
-TO RUN:
+***
+### TO RUN:
 
 1. cd to folder using "Git bash"
 
