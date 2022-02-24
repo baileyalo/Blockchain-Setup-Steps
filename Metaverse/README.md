@@ -10,7 +10,7 @@ Decentraland is a 3D virtual world platform. Users may buy virtual plots of land
 ![image](https://user-images.githubusercontent.com/90293555/152284601-0a6a689b-70de-4aff-8093-9fccb71b8f7a.png)
 
 
-#  Hardhat Project
+### Hardhat Project
 
 ![image](https://user-images.githubusercontent.com/90293555/152399521-fb2aefef-62d1-4ceb-948d-bffcc3d188b9.png)
 
@@ -73,6 +73,7 @@ error:
     error: ProviderError: max code size exceeded
 
 
+```javascript
 
 SOLVED: Update compiler file compilers: [
       {
@@ -109,7 +110,7 @@ SOLVED: Update compiler file compilers: [
 
 
 
-# Deployed to Ropsten testnet
+### Deployed to Ropsten testnet
 
 
 ![img6](https://user-images.githubusercontent.com/90293555/152579443-f4145cd7-746a-497f-8052-f988e7bfebd2.jpg)
@@ -125,9 +126,9 @@ SOLVED: Update compiler file compilers: [
 
 ------------------------------------------------------------------------------------------------------------------
 
+***
 
-
-#  Truffle Project
+### Truffle Project
 
 
 
@@ -188,12 +189,12 @@ Error:  *** Deployment Failed ***
    * Gas sent:     20000000000 (0x4a817c800)
 -----------------------------------------------------------------------------------------------------------------------
 
+***
 
 
 
 
-
-#  Catalyst Node Project
+### Catalyst Node Project
 
 ![image](https://user-images.githubusercontent.com/90293555/152284559-e2292c4d-1ce6-48de-8680-274ca7a50039.png)
 
